@@ -1,0 +1,6 @@
+username = "dsjfksldjf"
+password = "automation1"
+
+[base_urls]
+flipkart = "https://www.flipkart.com/"
+facebook = "https://www.facebook.com/"

@@ -1,0 +1,7 @@
+{
+  "browser": "chrome",
+  "environment": "prod",
+  "options": [],
+  "version": "",
+  "driver_exe_path": "manager"
+}
